@@ -48,3 +48,10 @@ For questions or collaborations, please contact:
 [Darren Ten]  
 [Institute of Sustainability for Chemicals, Energy and Environment (ISCE2), A*STAR]  
 [darren_ten@isce2.a-star.edu.sg]
+
+## 📚 References
+- He, K., Zhang, X., Ren, S. & Sun, J. Deep Residual Learning for Image Recognition. Preprint at https://doi.org/10.48550/ARXIV.1512.03385 (2015).
+- Katoh, K. & Standley, D. M. MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability. Molecular Biology and Evolution 30, 772–780 (2013).
+- Price, M. N., Dehal, P. S. & Arkin, A. P. FastTree 2 – Approximately Maximum-Likelihood Trees for Large Alignments. PLoS ONE 5, e9490 (2010).
+- Paradis, E. & Schliep, K. ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics 35, 526–528 (2019).
+- Seemann, T. barrnap 0.9 : rapid ribosomal RNA prediction. https://github.com/tseemann/barrnap (2013). 
