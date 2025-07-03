@@ -40,12 +40,11 @@ The compressed archive `singapore_518_fungi_dataset.zip` can be found on figshar
   ResNet-50-derived feature embeddings for pre-harvest colony images (PyTorch tensors).
 
 - `fungal_timepoint_images/`  
-  High-resolution images of fungal colonies captured across key developmental milestones.
+  High-resolution images of fungal colonies captured across key developmental milestones. 
 
-- `518_fungal_strains_metdata.csv`
-  Fungal strains taxonomy and ecological metadata.    
-
-
+- `518_fungal_strains_metdata.csv/`  
+  Fungal strains taxonomy and ecological metadata.
+  
 ## 💡 Contact
 For questions or collaborations, please contact:  
 [Darren Ten]  
