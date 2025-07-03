@@ -4,9 +4,9 @@ This repository contains the **analysis scripts** and **dataset components** ass
 
 > **"A Singapore-centric Fungal Dataset of 518 Cultivated Strains with Visual Phenotypes and Taxonomic Identity"**
 
-The project documents fungal biodiversity across terrestrial and marine environments in Singapore, combining high-resolution imaging, genomic sequencing, and deep learning-based feature extraction.
+The project documents fungal biodiversity across terrestrial and marine environments in Singapore, combining high-resolution imaging, fungal genomics, and deep learning-based feature extraction.
 
-The compressed archive `singapore_518_fungi_dataset.zip` and `singapore_518_fungi_dataset_scripts.zip` have been uploaded to **Figshare**.  
+The compressed dataset components `singapore_518_fungi_dataset.zip` and `singapore_518_fungi_dataset_scripts.zip` have been uploaded to **Figshare**.  
 
 📝 _The manuscript and dataset is currently under review, and the Figshare link will be provided here upon completion._
 
