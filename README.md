@@ -8,6 +8,9 @@ This repository contains the **analysis scripts** and **dataset components** ass
 
 The project documents fungal biodiversity across terrestrial and marine environments in Singapore, combining high-resolution imaging, genomic sequencing, and deep learning-based feature extraction.
 
+The compressed `.zip` archive containing the dataset components and scripts have been uploaded to **Figshare**.  
+The dataset is currently under review, and the Figshare link will be provided here upon completion of the deposition process.
+
 ## 📂 Repository Contents
 
 ### 💻 Analysis Scripts:
