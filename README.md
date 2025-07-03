@@ -8,7 +8,7 @@ The project documents fungal biodiversity across terrestrial and marine environm
 
 The compressed archive `singapore_518_fungi_dataset.zip` and `singapore_518_fungi_dataset_scripts.zip` have been uploaded to **Figshare**.  
 
-📝 _The manuscript and dataset is currently under review, and the Figshare link will be provided here upon completion of the deposition process._
+📝 _The manuscript and dataset is currently under review, and the Figshare link will be provided here upon completion._
 
 ## 📂 Repository Contents
 
