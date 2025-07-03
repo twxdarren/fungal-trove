@@ -28,8 +28,8 @@ The following scripts were used for processing and generating the dataset:
 5. **resnet50.py**  
    Extraction of high-dimensional image embeddings using a pre-trained ResNet-50 convolutional neural network.
 
-### 🍄 Dataset Components:
-The compressed archive `singapore_518_fungi_dataset_scripts.zip` includes:
+### 🍄 Dataset Components (Uploaded on figshare, refer to `singapore-518-fungi-dataset-components` for download information):
+The compressed archive `singapore_518_fungi_dataset.zip` can be found on figshare, which includes:
 
 - `fungal_18s_sequences/`  
   Predicted 18S rRNA sequences in FASTA format.
