@@ -1,7 +1,5 @@
 # A Singapore-centric Fungal Dataset of 518 Cultivated Strains with Visual Phenotypes and Taxonomic Identity
 
-**Journal Submission:** *Nature Scientific Data*
-
 This repository contains the **analysis scripts** and **dataset components** associated with our Data Descriptor:
 
 > **"A Singapore-centric Fungal Dataset of 518 Cultivated Strains with Visual Phenotypes and Taxonomic Identity"**
