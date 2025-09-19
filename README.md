@@ -45,13 +45,13 @@ The compressed archive `singapore_518_fungi_dataset.zip` can be found on figshar
 - `518_fungal_strains_metdata.csv`  
   Fungal strains taxonomy and ecological metadata.
   
-## 💡 Contact
+## Contact
 For questions or collaborations, please contact:  
 [Darren Ten]  
 [Institute of Sustainability for Chemicals, Energy and Environment (ISCE2), A*STAR]  
 [darren_ten@isce2.a-star.edu.sg]
 
-## 📚 References
+## References
 - He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778. https://doi.org/10.1109/CVPR.2016.90
 - Katoh, K., & Standley, D. M. (2013). MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability. Molecular Biology and Evolution, 30(4), 772–780. https://doi.org/10.1093/molbev/mst010
 - Price, M. N., Dehal, P. S., & Arkin, A. P. (2010). FastTree 2 – Approximately Maximum-Likelihood Trees for Large Alignments. PLoS ONE, 5(3), e9490. https://doi.org/10.1371/journal.pone.0009490
