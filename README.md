@@ -57,3 +57,5 @@ For questions or collaborations, please contact:
 - Price, M. N., Dehal, P. S., & Arkin, A. P. (2010). FastTree 2 – Approximately Maximum-Likelihood Trees for Large Alignments. PLoS ONE, 5(3), e9490. https://doi.org/10.1371/journal.pone.0009490
 - Paradis, E., & Schliep, K. (2019). ape 5.0: An environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics, 35(3), 526–528. https://doi.org/10.1093/bioinformatics/bty633
 - Seemann, T. (2013). barrnap 0.9: Rapid ribosomal RNA prediction. https://github.com/tseemann/barrnap
+- Ten, D. W. X., Wong, F. T., Lim, Y. H., & Koh, W. (2025). A Singapore-centric Fungal Dataset of 518 Cultivated Strains with Visual Phenotypes and Taxonomic Identity. Microbiology. https://doi.org/10.1101/2025.06.15.659681 
+
