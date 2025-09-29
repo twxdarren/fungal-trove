@@ -42,7 +42,7 @@ The compressed archive `singapore_518_fungi_dataset.zip` can be found on figshar
 - `fungal_timepoint_images/`  
   High-resolution images of fungal colonies captured across key developmental milestones. 
 
-- `518_fungal_strains_metdata.csv`  
+- `518_fungal_strains_metadata.csv`  
   Fungal strains taxonomy and ecological metadata.
   
 ## Contact
